@@ -27,4 +27,5 @@ button {
 .light-wrap {
   width: 45%;
   display: block;
+  margin: auto;
 }
